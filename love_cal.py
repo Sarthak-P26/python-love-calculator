@@ -18,3 +18,6 @@ def calculate_love_score(name1,name2):
 
     love_score = str(count) + str(count2)
     print(love_score)
+
+name1 = input("Enter you name: ")
+name2 = input("Enter you name: ")
