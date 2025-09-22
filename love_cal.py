@@ -9,3 +9,9 @@ def calculate_love_score(name1,name2):
             count+=1
         if item in word2:
             count2+= 1
+
+    for item in name2.upper():
+        if item in word1:
+            count+= 1
+        if item in word2:
+            count2+= 1
