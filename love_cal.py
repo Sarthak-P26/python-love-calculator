@@ -21,3 +21,5 @@ def calculate_love_score(name1,name2):
 
 name1 = input("Enter you name: ")
 name2 = input("Enter you name: ")
+
+calculate_love_score(name1, name2)
