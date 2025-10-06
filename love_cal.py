@@ -22,7 +22,7 @@ def calculate_love_score(name1,name2):
 print("Welcome to love Calculator....")
 print("Let's calculate your score 💖")
 
-name1 = input("Enter your first name: ")
+name1 = input("Enter your first name:😊 ")
 name2 = input("Enter your partner's name: ")
 
 print("This is your love score: ", end = " ")
